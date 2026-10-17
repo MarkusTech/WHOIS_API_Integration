@@ -71,7 +71,7 @@ frontend/
 
 ```bash
 git clone https://github.com/MarkusTech/TLV300-Home-Assignment-for-Full-Stack-Developer.git
-cd TLV300-Home-Assignment-for-Full-Stack-Developer
+cd WHOIS_API_Integration
 ```
 
 # 2. Backend Setup
